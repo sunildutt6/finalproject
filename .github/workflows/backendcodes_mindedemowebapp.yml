@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'mindedemowebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A25B995E63E45D1A7D5F1D7546CC066 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_741C3AC925B14774848FAF486A597789 }}
           package: '*.jar'
